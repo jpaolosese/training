@@ -4,7 +4,7 @@
 */
 
 const firstName = 'Jose';
-const age = 27;
-const color = 'black';
+let age = 27;
+let color = 'black';
 
 console.log(`Hi, my name is ${firstName} and I am ${age} years old. My favorite color is ${color}.`);
